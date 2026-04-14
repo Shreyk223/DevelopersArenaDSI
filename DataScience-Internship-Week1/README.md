@@ -51,15 +51,13 @@ This project is a Python-based command-line application that takes a user's name
 What is your name? 
 Shreyas
 How old are you? 
-24
+23
 What is your favorite hobby? 
-Deep house music
+Yoga
 
 ## 📊 Sample Output
-==============================
-🎉 Welcome Shreyas! 🎉
-You are 24 years old and love Deep house music.
-==============================
+✨ Welcome Shreyas! ✨
+You are 23 years old and love Yoga.
 
 ---
 
