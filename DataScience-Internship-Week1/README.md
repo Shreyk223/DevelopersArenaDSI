@@ -1,7 +1,7 @@
 # 👋 Personal Introduction Program
 
 ## 📌 Project Description
-This project is a Python-based command-line application that takes a user's name, age, and favorite hobby as input, and dynamically generates a friendly, personalized welcome message. It serves as an introduction to basic Python scripting and data handling.
+This project is a Python-based command-line application that takes a user's name, age, and favourite hobby as input, and dynamically generates a friendly, personalized welcome message. It serves as an introduction to basic Python scripting and data handling.
 
 ---
 
