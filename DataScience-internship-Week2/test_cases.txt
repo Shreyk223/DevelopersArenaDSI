@@ -1,0 +1,26 @@
+Test Cases & Validation Results
+
+Test Case 1: Standard Valid Input (Upper Range)
+- Input: Name = "Priya", Marks = "85"
+- Expected Output: Grade B, Message: "Very Good! Keep it up!"
+- Result: Passed
+
+Test Case 2: Boundary Value (Max)
+- Input: Name = "Rahul", Marks = "100"
+- Expected Output: Grade A, Message: "Outstanding! You are at the top pf the class"
+- Result: Passed
+
+Test Case 3: Boundary Value (Min)
+- Input: Name = "Anita", Marks = "0"
+- Expected Output: Grade F, Message: "Don't give up! Reach out for help, and you'll do better next time"
+- Result: Passed
+
+Test Case 4: Invalid Input - Out of Range
+- Input: Name = "Sam", Marks = "105"
+- Expected Behavior: Reject input, display error "Invalid input! Marks must be between 0 and 100. Please try again", prompt again.
+- Result: Passed
+
+Test Case 5: Invalid Input - Non-Numeric
+- Input: Name = "John", Marks = "eighty"
+- Expected Behavior: Catch ValueError, display "Invalid input! Please enter a numeric value", prompt again.
+- Result: Passed
