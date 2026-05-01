@@ -1,0 +1,2 @@
+1. Install Pandas library (pip install pandas in cmd)
+2. import pandas as pd
