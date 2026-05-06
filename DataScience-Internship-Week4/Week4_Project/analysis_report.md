@@ -34,16 +34,22 @@ Data Aggregation: The groupby() function was utilized to segment the data by 'Pr
 Insight 1: Product Performance (Bar Chart)
 <img width="3000" height="1800" alt="sales_by_product" src="https://github.com/user-attachments/assets/f5dabe19-ea60-4ff8-86cb-f7bc34d52ec7" />
 
-Analysis: By charting the total revenue horizontally, a clear hierarchy of product performance emerged. High-ticket electronic items generated the vast majority of the company's revenue.
+Analysis: Laptops are the Primary Revenue Driver: Laptops dominate the sales charts by a significant margin, bringing in nearly Rs 4 million. This indicates that high-ticket electronics are the core of the business's revenue stream.
 
-Business Takeaway: Marketing budgets should be reallocated to heavily push high-revenue electronics (like Laptops, Tablets and Phones). High-volume but low-margin accessories require too many individual sales to match the revenue impact of a single electronic device sale.
+A Clear Middle Tier: Tablets and Phones are performing very similarly, both hovering just below the Rs 3 million mark. They form a solid, reliable secondary revenue source.
+
+Accessories Lag Behind: Monitors and Headphones are the lowest performers, generating less than Rs 1.5 million each.
+
+Actionable Takeaway: The company should ensure a robust supply chain and allocate the majority of its marketing budget toward Laptops, Tablets, and Phones, as these products yield the highest return on investment.
 
 Insight 2: Regional Revenue Distribution (Pie Chart)
 <img width="2400" height="2400" alt="sales_by_region" src="https://github.com/user-attachments/assets/b1606c1d-f7f1-40ac-abd5-2bc7a0054208" />
 
-Analysis: The pie chart visually maps how dependent the business is on specific geographical areas, converting raw sales numbers into easily digestible percentage shares.
+North and South Dominate: The business is heavily reliant on the North (32.2%) and South (30.2%) regions. Combined, these two territories account for nearly two-thirds (62.4%) of the total company revenue.
 
-Business Takeaway: By identifying the dominant regions (e.g., North and South regions), the company can optimize supply chain logistics. Storing more inventory in local warehouses within these high-performing regions will cut down on shipping times and reduce logistics costs.
+The West is Underperforming: The West region is the weakest link, contributing only 17.2% to the total sales.
+
+Actionable Takeaway: Logistics and warehouse storage should be heavily concentrated in the North and South to ensure fast delivery times where demand is highest. Additionally, the company should investigate why the West is underperforming—it may require targeted regional marketing campaigns or specific promotional discounts to boost adoption in that area.
 
 ## 6. Technical Learnings & Conclusion
 This project solidified the transition from basic scripting to building functional data pipelines. Key technical takeaways include:
