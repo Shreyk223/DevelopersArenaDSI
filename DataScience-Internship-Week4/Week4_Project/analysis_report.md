@@ -36,14 +36,14 @@ Insight 1: Product Performance (Bar Chart)
 
 Analysis: By charting the total revenue horizontally, a clear hierarchy of product performance emerged. High-ticket electronic items generated the vast majority of the company's revenue.
 
-Business Takeaway: Marketing budgets should be reallocated to heavily push high-revenue electronics (like Laptops and Phones). High-volume but low-margin accessories require too many individual sales to match the revenue impact of a single electronic device sale.
+Business Takeaway: Marketing budgets should be reallocated to heavily push high-revenue electronics (like Laptops, Tablets and Phones). High-volume but low-margin accessories require too many individual sales to match the revenue impact of a single electronic device sale.
 
 Insight 2: Regional Revenue Distribution (Pie Chart)
 <img width="2400" height="2400" alt="sales_by_region" src="https://github.com/user-attachments/assets/b1606c1d-f7f1-40ac-abd5-2bc7a0054208" />
 
 Analysis: The pie chart visually maps how dependent the business is on specific geographical areas, converting raw sales numbers into easily digestible percentage shares.
 
-Business Takeaway: By identifying the dominant regions (e.g., North and East regions), the company can optimize supply chain logistics. Storing more inventory in local warehouses within these high-performing regions will cut down on shipping times and reduce logistics costs.
+Business Takeaway: By identifying the dominant regions (e.g., North and South regions), the company can optimize supply chain logistics. Storing more inventory in local warehouses within these high-performing regions will cut down on shipping times and reduce logistics costs.
 
 ## 6. Technical Learnings & Conclusion
 This project solidified the transition from basic scripting to building functional data pipelines. Key technical takeaways include:
