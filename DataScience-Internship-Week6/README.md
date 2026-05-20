@@ -62,7 +62,8 @@ Date: 2024-01-01 | Product: Phone | Quantity: 7 | Price: 37300 | Region: East | 
 
 ## 📂 Project Files
 - `CustomerAnalysis.ipynb` – Main Python data visualization notebook
-- `analysis_report.md` – Final business analysis and executive summary
+- `README.md` – Project description
 - `sales_data.csv` – Raw transactional dataset
 - `plotly.gif` – Demo plotly visualization
 - `requirements.txt` – Dependencies (pandas, matplotlib, seaborn, plotly)
+- `analysis_report.pdf` – Final business analysis and executive summary
