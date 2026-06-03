@@ -1,0 +1,501 @@
+CustomerID,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,PaperlessBilling,SeniorCitizen,Churn,CustNum,Date,Product,Quantity,Price,Customer_ID,Region,Total_Sales
+C00001,6,64,1540,One year,Credit Card,No,1,0,1,2024-01-01,Phone,7.0,37300.0,CUST001,East,261100.0
+C00002,21,113,1753,Month-to-month,Electronic Check,Yes,1,0,2,2024-01-02,Headphones,4.0,15406.0,CUST002,North,61624.0
+C00003,27,31,1455,Two year,Credit Card,No,1,0,3,2024-01-03,Phone,2.0,21746.0,CUST003,West,43492.0
+C00004,53,29,7150,Month-to-month,Electronic Check,No,1,0,4,2024-01-04,Headphones,1.0,30895.0,CUST004,East,30895.0
+C00005,16,185,1023,One year,Electronic Check,No,1,0,5,2024-01-05,Laptop,8.0,39835.0,CUST005,North,318680.0
+C00006,55,44,7538,Two year,Electronic Check,No,0,0,6,2024-01-06,Laptop,7.0,40420.0,CUST006,South,282940.0
+C00007,66,99,4178,Two year,Bank Transfer,No,1,0,7,2024-01-07,Laptop,9.0,40430.0,CUST007,South,363870.0
+C00008,61,128,3088,Month-to-month,Bank Transfer,No,1,0,8,2024-01-08,Laptop,7.0,7262.0,CUST008,West,50834.0
+C00009,64,124,7973,Month-to-month,Credit Card,No,1,0,9,2024-01-09,Tablet,3.0,32791.0,CUST009,North,98373.0
+C00010,14,120,5844,One year,Bank Transfer,Yes,1,0,10,2024-01-10,Laptop,4.0,45023.0,CUST010,West,180092.0
+C00011,59,57,5168,One year,Credit Card,Yes,0,0,11,2024-01-11,Monitor,8.0,6160.0,CUST011,West,49280.0
+C00012,7,110,7282,Month-to-month,Electronic Check,No,1,1,12,2024-01-12,Phone,2.0,13233.0,CUST012,West,26466.0
+C00013,53,86,3438,Month-to-month,Bank Transfer,Yes,1,0,13,2024-01-13,Phone,8.0,20655.0,CUST013,East,165240.0
+C00014,8,158,6194,Month-to-month,Credit Card,No,1,1,14,2024-01-14,Headphones,4.0,4195.0,CUST014,East,16780.0
+C00015,53,58,768,Month-to-month,Credit Card,Yes,1,0,15,2024-01-15,Headphones,2.0,34447.0,CUST015,West,68894.0
+C00016,65,77,4071,Month-to-month,Credit Card,Yes,1,0,16,2024-01-16,Phone,9.0,41548.0,CUST016,South,373932.0
+C00017,19,187,4874,Two year,Credit Card,No,0,0,17,2024-01-17,Phone,5.0,13488.0,CUST017,South,67440.0
+C00018,42,101,3736,One year,Bank Transfer,Yes,0,0,18,2024-01-18,Tablet,4.0,19322.0,CUST018,North,77288.0
+C00019,7,156,5389,One year,Bank Transfer,Yes,0,1,19,2024-01-19,Tablet,1.0,44045.0,CUST019,West,44045.0
+C00020,26,105,6868,Month-to-month,Bank Transfer,Yes,1,0,20,2024-01-20,Laptop,8.0,41749.0,CUST020,North,333992.0
+C00021,38,137,1000,Month-to-month,Electronic Check,No,1,0,21,2024-01-21,Laptop,3.0,36518.0,CUST021,East,109554.0
+C00022,25,120,4855,Two year,Credit Card,Yes,0,0,22,2024-01-22,Tablet,2.0,6713.0,CUST022,West,13426.0
+C00023,60,40,1755,One year,Credit Card,No,1,0,23,2024-01-23,Laptop,9.0,29275.0,CUST023,North,263475.0
+C00024,30,100,3710,Two year,Credit Card,No,1,0,24,2024-01-24,Headphones,1.0,17838.0,CUST024,West,17838.0
+C00025,25,193,7565,Month-to-month,Bank Transfer,No,0,0,25,2024-01-25,Monitor,2.0,9191.0,CUST025,West,18382.0
+C00026,47,181,3295,One year,Credit Card,No,1,0,26,2024-01-26,Laptop,3.0,25948.0,CUST026,North,77844.0
+C00027,60,101,3741,Month-to-month,Bank Transfer,No,1,0,27,2024-01-27,Tablet,1.0,38298.0,CUST027,North,38298.0
+C00028,20,56,3950,One year,Bank Transfer,No,1,0,28,2024-01-28,Tablet,7.0,43495.0,CUST028,North,304465.0
+C00029,36,175,3682,One year,Bank Transfer,No,0,0,29,2024-01-29,Headphones,1.0,45467.0,CUST029,North,45467.0
+C00030,34,190,7540,One year,Bank Transfer,No,1,0,30,2024-01-30,Tablet,9.0,11902.0,CUST030,North,107118.0
+C00031,28,101,4643,One year,Electronic Check,Yes,1,0,31,2024-01-31,Tablet,6.0,34900.0,CUST031,East,209400.0
+C00032,10,196,4825,Month-to-month,Credit Card,Yes,0,1,32,2024-02-01,Phone,4.0,16997.0,CUST032,South,67988.0
+C00033,43,182,7129,One year,Electronic Check,Yes,0,0,33,2024-02-02,Tablet,3.0,20696.0,CUST033,South,62088.0
+C00034,32,195,7139,One year,Bank Transfer,Yes,1,0,34,2024-02-03,Tablet,2.0,48602.0,CUST034,East,97204.0
+C00035,60,44,1302,One year,Credit Card,No,1,0,35,2024-02-04,Tablet,6.0,4339.0,CUST035,South,26034.0
+C00036,50,116,690,Month-to-month,Credit Card,No,1,0,36,2024-02-05,Tablet,4.0,45515.0,CUST036,East,182060.0
+C00037,37,42,947,Month-to-month,Electronic Check,No,0,0,37,2024-02-06,Phone,5.0,40177.0,CUST037,North,200885.0
+C00038,62,166,6225,Two year,Electronic Check,Yes,1,0,38,2024-02-07,Monitor,8.0,19256.0,CUST038,East,154048.0
+C00039,50,84,858,Month-to-month,Credit Card,No,0,0,39,2024-02-08,Monitor,1.0,39924.0,CUST039,South,39924.0
+C00040,26,151,1952,Two year,Electronic Check,No,0,0,40,2024-02-09,Phone,4.0,11494.0,CUST040,South,45976.0
+C00041,42,20,1950,Two year,Credit Card,Yes,1,0,41,2024-02-10,Monitor,1.0,20083.0,CUST041,West,20083.0
+C00042,7,148,2701,Two year,Credit Card,Yes,0,0,42,2024-02-11,Phone,1.0,18616.0,CUST042,West,18616.0
+C00043,63,89,6547,One year,Electronic Check,Yes,0,0,43,2024-02-12,Tablet,6.0,43350.0,CUST043,West,260100.0
+C00044,42,123,3913,Month-to-month,Credit Card,No,1,0,44,2024-02-13,Monitor,4.0,43428.0,CUST044,West,173712.0
+C00045,34,93,3344,Two year,Credit Card,Yes,0,0,45,2024-02-14,Phone,2.0,40244.0,CUST045,East,80488.0
+C00046,32,170,4773,Two year,Credit Card,No,1,0,46,2024-02-15,Tablet,2.0,11032.0,CUST046,West,22064.0
+C00047,22,46,7555,Month-to-month,Bank Transfer,No,1,0,47,2024-02-16,Phone,6.0,29499.0,CUST047,North,176994.0
+C00048,37,162,3735,Month-to-month,Electronic Check,Yes,1,0,48,2024-02-17,Monitor,1.0,6720.0,CUST048,West,6720.0
+C00049,56,49,3376,Month-to-month,Bank Transfer,No,0,0,49,2024-02-18,Laptop,1.0,32297.0,CUST049,South,32297.0
+C00050,49,121,5161,One year,Bank Transfer,Yes,0,0,50,2024-02-19,Laptop,4.0,43848.0,CUST050,West,175392.0
+C00051,71,172,416,Month-to-month,Electronic Check,No,1,0,51,2024-02-20,Phone,9.0,15160.0,CUST051,West,136440.0
+C00052,31,154,7537,Two year,Credit Card,Yes,1,0,52,2024-02-21,Headphones,1.0,32524.0,CUST052,West,32524.0
+C00053,53,48,1497,One year,Credit Card,No,0,0,53,2024-02-22,Monitor,6.0,24160.0,CUST053,North,144960.0
+C00054,49,68,2615,Month-to-month,Bank Transfer,Yes,1,0,54,2024-02-23,Tablet,5.0,1308.0,CUST054,North,6540.0
+C00055,9,157,7022,Month-to-month,Bank Transfer,No,0,1,55,2024-02-24,Tablet,7.0,4341.0,CUST055,South,30387.0
+C00056,47,54,6827,Two year,Bank Transfer,Yes,0,0,56,2024-02-25,Phone,3.0,37135.0,CUST056,North,111405.0
+C00057,58,121,3537,One year,Credit Card,No,1,0,57,2024-02-26,Monitor,6.0,37055.0,CUST057,East,222330.0
+C00058,59,72,7053,Month-to-month,Bank Transfer,Yes,0,0,58,2024-02-27,Monitor,2.0,5272.0,CUST058,East,10544.0
+C00059,36,38,3792,One year,Bank Transfer,Yes,1,0,59,2024-02-28,Laptop,5.0,15475.0,CUST059,South,77375.0
+C00060,26,182,7074,Month-to-month,Credit Card,No,0,0,60,2024-02-29,Headphones,3.0,13624.0,CUST060,South,40872.0
+C00061,23,187,5608,Month-to-month,Electronic Check,No,1,0,61,2024-03-01,Tablet,5.0,29840.0,CUST061,North,149200.0
+C00062,10,195,4284,Two year,Electronic Check,No,0,1,62,2024-03-02,Laptop,8.0,19661.0,CUST062,South,157288.0
+C00063,53,128,5803,One year,Bank Transfer,No,0,0,63,2024-03-03,Monitor,9.0,24224.0,CUST063,East,218016.0
+C00064,25,176,4496,One year,Bank Transfer,No,1,0,64,2024-03-04,Laptop,5.0,17924.0,CUST064,West,89620.0
+C00065,65,180,4142,One year,Credit Card,Yes,0,0,65,2024-03-05,Phone,7.0,44652.0,CUST065,South,312564.0
+C00066,3,140,2541,One year,Electronic Check,No,1,0,66,2024-03-06,Laptop,8.0,14381.0,CUST066,North,115048.0
+C00067,53,61,3631,One year,Bank Transfer,No,0,0,67,2024-03-07,Headphones,2.0,44487.0,CUST067,East,88974.0
+C00068,62,62,3016,Two year,Credit Card,Yes,0,0,68,2024-03-08,Laptop,3.0,34303.0,CUST068,North,102909.0
+C00069,2,102,1333,Two year,Credit Card,Yes,0,1,69,2024-03-09,Tablet,3.0,23229.0,CUST069,North,69687.0
+C00070,53,21,6828,One year,Credit Card,No,0,0,70,2024-03-10,Laptop,9.0,35418.0,CUST070,South,318762.0
+C00071,69,153,1418,Month-to-month,Electronic Check,No,0,0,71,2024-03-11,Phone,4.0,34843.0,CUST071,West,139372.0
+C00072,68,153,1930,One year,Electronic Check,Yes,0,0,72,2024-03-12,Headphones,8.0,18964.0,CUST072,East,151712.0
+C00073,13,125,3696,Two year,Credit Card,No,1,0,73,2024-03-13,Headphones,7.0,49930.0,CUST073,West,349510.0
+C00074,2,152,2038,Month-to-month,Bank Transfer,No,0,1,74,2024-03-14,Tablet,4.0,17512.0,CUST074,South,70048.0
+C00075,70,77,7593,Two year,Electronic Check,Yes,0,0,75,2024-03-15,Monitor,6.0,23381.0,CUST075,North,140286.0
+C00076,35,170,936,One year,Bank Transfer,Yes,0,0,76,2024-03-16,Phone,5.0,16596.0,CUST076,South,82980.0
+C00077,4,43,7302,Month-to-month,Credit Card,Yes,0,1,77,2024-03-17,Laptop,7.0,2603.0,CUST077,South,18221.0
+C00078,41,109,7937,Two year,Bank Transfer,Yes,1,0,78,2024-03-18,Tablet,9.0,26110.0,CUST078,East,234990.0
+C00079,8,95,3792,One year,Bank Transfer,Yes,1,0,79,2024-03-19,Tablet,9.0,19425.0,CUST079,North,174825.0
+C00080,47,138,6406,Two year,Credit Card,Yes,0,0,80,2024-03-20,Phone,4.0,49101.0,CUST080,South,196404.0
+C00081,35,139,5211,Two year,Bank Transfer,No,0,0,81,2024-03-21,Laptop,4.0,28098.0,CUST081,East,112392.0
+C00082,30,162,3917,One year,Credit Card,No,0,0,82,2024-03-22,Headphones,2.0,48769.0,CUST082,South,97538.0
+C00083,27,142,1908,Two year,Bank Transfer,No,1,0,83,2024-03-23,Laptop,8.0,43861.0,CUST083,North,350888.0
+C00084,50,141,4412,Month-to-month,Credit Card,No,0,0,84,2024-03-24,Phone,8.0,40518.0,CUST084,South,324144.0
+C00085,51,136,4725,Two year,Bank Transfer,Yes,1,0,85,2024-03-25,Laptop,3.0,7455.0,CUST085,South,22365.0
+C00086,63,29,7685,Two year,Credit Card,Yes,1,0,86,2024-03-26,Monitor,7.0,11591.0,CUST086,North,81137.0
+C00087,43,103,2856,One year,Electronic Check,No,1,0,87,2024-03-27,Tablet,4.0,3839.0,CUST087,West,15356.0
+C00088,40,108,2650,One year,Electronic Check,No,1,0,88,2024-03-28,Phone,6.0,4578.0,CUST088,West,27468.0
+C00089,41,177,4075,One year,Bank Transfer,Yes,0,0,89,2024-03-29,Laptop,6.0,38037.0,CUST089,North,228222.0
+C00090,21,126,7735,One year,Credit Card,Yes,0,0,90,2024-03-30,Monitor,4.0,9483.0,CUST090,East,37932.0
+C00091,3,188,2422,Two year,Credit Card,No,1,0,91,2024-03-31,Laptop,1.0,7148.0,CUST091,North,7148.0
+C00092,42,122,1294,Two year,Bank Transfer,No,0,0,92,2024-04-01,Tablet,5.0,30531.0,CUST092,South,152655.0
+C00093,18,29,7469,Month-to-month,Electronic Check,Yes,0,0,93,2024-04-02,Headphones,6.0,42813.0,CUST093,South,256878.0
+C00094,55,193,4344,Two year,Bank Transfer,No,1,0,94,2024-04-03,Laptop,6.0,16667.0,CUST094,South,100002.0
+C00095,21,140,3171,One year,Electronic Check,No,1,0,95,2024-04-04,Tablet,7.0,19507.0,CUST095,West,136549.0
+C00096,20,150,1780,Month-to-month,Electronic Check,Yes,0,0,96,2024-04-05,Tablet,8.0,20770.0,CUST096,North,166160.0
+C00097,15,40,510,Month-to-month,Bank Transfer,No,0,0,97,2024-04-06,Headphones,1.0,7647.0,CUST097,West,7647.0
+C00098,42,172,1168,Month-to-month,Bank Transfer,No,1,0,98,2024-04-07,Tablet,5.0,27196.0,CUST098,East,135980.0
+C00099,10,143,3353,Two year,Electronic Check,No,1,1,99,2024-04-08,Monitor,1.0,30717.0,CUST099,North,30717.0
+C00100,39,84,7566,One year,Electronic Check,No,1,0,100,2024-04-09,Headphones,5.0,23376.0,CUST100,South,116880.0
+C00101,66,170,1059,Month-to-month,Electronic Check,No,1,0,101,,,,,,,
+C00102,50,130,1087,One year,Electronic Check,Yes,1,0,102,,,,,,,
+C00103,44,78,6369,One year,Bank Transfer,Yes,1,0,103,,,,,,,
+C00104,7,39,6651,One year,Electronic Check,Yes,1,0,104,,,,,,,
+C00105,3,115,5547,Two year,Bank Transfer,No,0,1,105,,,,,,,
+C00106,21,75,7026,Two year,Bank Transfer,Yes,1,0,106,,,,,,,
+C00107,3,59,7111,Month-to-month,Credit Card,Yes,1,1,107,,,,,,,
+C00108,18,56,7925,One year,Electronic Check,No,0,0,108,,,,,,,
+C00109,48,152,4042,One year,Electronic Check,Yes,1,0,109,,,,,,,
+C00110,32,24,2939,Two year,Electronic Check,Yes,1,0,110,,,,,,,
+C00111,41,88,3461,One year,Bank Transfer,Yes,1,0,111,,,,,,,
+C00112,55,87,3353,Two year,Credit Card,No,1,0,112,,,,,,,
+C00113,15,102,1746,Month-to-month,Credit Card,No,1,0,113,,,,,,,
+C00114,31,111,2539,Month-to-month,Credit Card,No,0,0,114,,,,,,,
+C00115,33,160,2315,One year,Bank Transfer,No,0,0,115,,,,,,,
+C00116,70,164,5320,One year,Credit Card,No,0,0,116,,,,,,,
+C00117,14,187,2225,Two year,Electronic Check,Yes,0,0,117,,,,,,,
+C00118,35,98,4023,Two year,Bank Transfer,Yes,0,0,118,,,,,,,
+C00119,56,83,562,Month-to-month,Bank Transfer,Yes,0,0,119,,,,,,,
+C00120,62,75,2451,One year,Credit Card,No,0,0,120,,,,,,,
+C00121,30,107,6906,One year,Credit Card,Yes,1,0,121,,,,,,,
+C00122,15,147,2687,One year,Electronic Check,No,0,0,122,,,,,,,
+C00123,41,114,2419,Two year,Bank Transfer,No,1,0,123,,,,,,,
+C00124,27,50,2751,Two year,Electronic Check,Yes,1,0,124,,,,,,,
+C00125,4,177,950,Month-to-month,Credit Card,Yes,0,1,125,,,,,,,
+C00126,62,183,7208,Two year,Electronic Check,Yes,1,0,126,,,,,,,
+C00127,31,62,5887,One year,Bank Transfer,No,1,0,127,,,,,,,
+C00128,13,137,7128,One year,Bank Transfer,Yes,0,0,128,,,,,,,
+C00129,20,179,2692,Month-to-month,Bank Transfer,Yes,1,0,129,,,,,,,
+C00130,8,174,3979,Two year,Credit Card,Yes,0,1,130,,,,,,,
+C00131,2,125,7858,Month-to-month,Electronic Check,No,1,1,131,,,,,,,
+C00132,3,79,891,Month-to-month,Credit Card,No,1,1,132,,,,,,,
+C00133,48,92,5908,Two year,Bank Transfer,Yes,0,0,133,,,,,,,
+C00134,15,28,6569,Month-to-month,Credit Card,No,1,0,134,,,,,,,
+C00135,64,101,5706,Month-to-month,Bank Transfer,Yes,1,0,135,,,,,,,
+C00136,52,152,4318,Two year,Bank Transfer,Yes,0,0,136,,,,,,,
+C00137,10,134,4476,Month-to-month,Electronic Check,No,0,1,137,,,,,,,
+C00138,30,188,4095,Two year,Electronic Check,Yes,0,0,138,,,,,,,
+C00139,27,67,3567,Month-to-month,Credit Card,Yes,1,0,139,,,,,,,
+C00140,2,184,5021,One year,Electronic Check,Yes,1,1,140,,,,,,,
+C00141,46,112,6817,Two year,Electronic Check,No,0,0,141,,,,,,,
+C00142,11,115,1713,Two year,Bank Transfer,Yes,1,1,142,,,,,,,
+C00143,64,167,3677,Month-to-month,Bank Transfer,No,0,0,143,,,,,,,
+C00144,65,47,5540,One year,Bank Transfer,Yes,1,0,144,,,,,,,
+C00145,21,173,7651,Two year,Bank Transfer,Yes,0,0,145,,,,,,,
+C00146,29,42,2058,One year,Credit Card,No,1,0,146,,,,,,,
+C00147,6,133,7448,One year,Credit Card,No,0,1,147,,,,,,,
+C00148,34,24,2004,Two year,Bank Transfer,Yes,1,0,148,,,,,,,
+C00149,20,114,1250,One year,Bank Transfer,Yes,0,0,149,,,,,,,
+C00150,42,132,3139,Month-to-month,Electronic Check,No,0,0,150,,,,,,,
+C00151,5,105,5965,One year,Credit Card,No,0,1,151,,,,,,,
+C00152,45,139,7654,Month-to-month,Credit Card,No,1,0,152,,,,,,,
+C00153,21,156,6366,Two year,Electronic Check,No,0,0,153,,,,,,,
+C00154,37,158,3355,Two year,Electronic Check,No,0,0,154,,,,,,,
+C00155,68,40,5920,Month-to-month,Bank Transfer,Yes,1,0,155,,,,,,,
+C00156,26,148,4601,One year,Bank Transfer,Yes,0,0,156,,,,,,,
+C00157,26,78,5632,Two year,Electronic Check,Yes,1,0,157,,,,,,,
+C00158,1,86,7217,Two year,Bank Transfer,Yes,0,0,158,,,,,,,
+C00159,47,182,3250,One year,Electronic Check,No,1,0,159,,,,,,,
+C00160,30,154,4096,One year,Bank Transfer,Yes,0,0,160,,,,,,,
+C00161,51,78,984,Month-to-month,Electronic Check,Yes,1,0,161,,,,,,,
+C00162,13,90,347,One year,Electronic Check,Yes,0,0,162,,,,,,,
+C00163,64,185,3916,One year,Credit Card,Yes,1,0,163,,,,,,,
+C00164,60,171,220,Month-to-month,Credit Card,No,1,0,164,,,,,,,
+C00165,69,48,3419,One year,Bank Transfer,Yes,1,0,165,,,,,,,
+C00166,40,105,791,One year,Credit Card,Yes,0,0,166,,,,,,,
+C00167,23,110,6723,Two year,Bank Transfer,Yes,1,0,167,,,,,,,
+C00168,42,80,5832,One year,Electronic Check,No,1,0,168,,,,,,,
+C00169,13,99,2938,Month-to-month,Credit Card,No,0,0,169,,,,,,,
+C00170,24,84,6882,One year,Credit Card,Yes,0,0,170,,,,,,,
+C00171,22,61,5363,Two year,Bank Transfer,Yes,1,0,171,,,,,,,
+C00172,10,115,3717,One year,Electronic Check,Yes,0,1,172,,,,,,,
+C00173,62,160,1811,Month-to-month,Credit Card,Yes,1,0,173,,,,,,,
+C00174,5,145,1090,Month-to-month,Credit Card,No,1,1,174,,,,,,,
+C00175,20,76,6396,Two year,Credit Card,Yes,1,0,175,,,,,,,
+C00176,68,67,1797,Two year,Electronic Check,No,1,0,176,,,,,,,
+C00177,42,50,279,One year,Electronic Check,No,0,0,177,,,,,,,
+C00178,3,180,3232,One year,Bank Transfer,No,0,0,178,,,,,,,
+C00179,68,193,3285,One year,Credit Card,No,0,0,179,,,,,,,
+C00180,52,39,3233,Two year,Credit Card,Yes,1,0,180,,,,,,,
+C00181,4,135,4742,Month-to-month,Credit Card,No,1,1,181,,,,,,,
+C00182,13,64,4297,Month-to-month,Bank Transfer,Yes,1,0,182,,,,,,,
+C00183,56,151,735,Two year,Credit Card,Yes,1,0,183,,,,,,,
+C00184,61,29,2290,One year,Credit Card,Yes,0,0,184,,,,,,,
+C00185,47,130,2289,Month-to-month,Bank Transfer,Yes,0,0,185,,,,,,,
+C00186,59,93,7342,Month-to-month,Bank Transfer,No,0,0,186,,,,,,,
+C00187,47,199,6905,Two year,Electronic Check,Yes,1,0,187,,,,,,,
+C00188,49,163,3776,One year,Bank Transfer,No,0,0,188,,,,,,,
+C00189,31,100,4971,One year,Electronic Check,Yes,0,0,189,,,,,,,
+C00190,52,185,7330,Two year,Credit Card,Yes,0,0,190,,,,,,,
+C00191,46,51,466,One year,Bank Transfer,Yes,0,0,191,,,,,,,
+C00192,43,31,7992,Month-to-month,Credit Card,No,0,0,192,,,,,,,
+C00193,65,158,3712,One year,Credit Card,No,0,0,193,,,,,,,
+C00194,71,138,6231,Month-to-month,Electronic Check,No,0,0,194,,,,,,,
+C00195,27,121,4317,One year,Bank Transfer,No,0,0,195,,,,,,,
+C00196,30,133,3029,Month-to-month,Credit Card,Yes,1,0,196,,,,,,,
+C00197,37,152,2750,One year,Credit Card,No,0,0,197,,,,,,,
+C00198,37,34,6987,Month-to-month,Electronic Check,No,1,0,198,,,,,,,
+C00199,3,63,1535,Two year,Electronic Check,No,0,0,199,,,,,,,
+C00200,42,143,7310,One year,Electronic Check,Yes,0,0,200,,,,,,,
+C00201,50,170,3185,Two year,Electronic Check,No,0,0,201,,,,,,,
+C00202,50,169,159,One year,Bank Transfer,No,0,0,202,,,,,,,
+C00203,29,189,5035,One year,Credit Card,Yes,1,0,203,,,,,,,
+C00204,15,55,5421,Two year,Credit Card,No,0,0,204,,,,,,,
+C00205,69,40,3396,Month-to-month,Credit Card,Yes,0,0,205,,,,,,,
+C00206,69,94,5765,Month-to-month,Electronic Check,Yes,0,0,206,,,,,,,
+C00207,57,32,4351,One year,Bank Transfer,No,0,0,207,,,,,,,
+C00208,70,171,4801,Month-to-month,Electronic Check,No,0,0,208,,,,,,,
+C00209,46,199,4023,Month-to-month,Electronic Check,Yes,0,0,209,,,,,,,
+C00210,65,82,7742,Two year,Credit Card,Yes,0,0,210,,,,,,,
+C00211,65,113,2956,Month-to-month,Credit Card,Yes,0,0,211,,,,,,,
+C00212,51,160,4278,Two year,Credit Card,No,1,0,212,,,,,,,
+C00213,44,59,1893,Month-to-month,Credit Card,Yes,0,0,213,,,,,,,
+C00214,7,142,3099,Month-to-month,Bank Transfer,No,1,1,214,,,,,,,
+C00215,59,29,1393,One year,Electronic Check,Yes,0,0,215,,,,,,,
+C00216,8,102,2161,One year,Bank Transfer,Yes,1,0,216,,,,,,,
+C00217,10,152,5250,Month-to-month,Credit Card,Yes,1,1,217,,,,,,,
+C00218,67,182,6193,Two year,Bank Transfer,Yes,0,0,218,,,,,,,
+C00219,45,177,3091,One year,Bank Transfer,No,0,0,219,,,,,,,
+C00220,33,198,2226,Two year,Bank Transfer,Yes,0,0,220,,,,,,,
+C00221,57,118,5412,Two year,Credit Card,No,1,0,221,,,,,,,
+C00222,67,37,1247,Month-to-month,Credit Card,No,1,0,222,,,,,,,
+C00223,31,70,1256,Month-to-month,Credit Card,No,0,0,223,,,,,,,
+C00224,19,43,6118,One year,Electronic Check,Yes,0,0,224,,,,,,,
+C00225,40,156,7024,One year,Electronic Check,No,0,0,225,,,,,,,
+C00226,24,142,7012,One year,Credit Card,Yes,0,0,226,,,,,,,
+C00227,57,123,5830,Month-to-month,Bank Transfer,Yes,0,0,227,,,,,,,
+C00228,53,183,4023,Two year,Electronic Check,Yes,1,0,228,,,,,,,
+C00229,24,32,1635,One year,Bank Transfer,No,1,0,229,,,,,,,
+C00230,32,149,5477,Two year,Bank Transfer,No,1,0,230,,,,,,,
+C00231,33,99,3225,One year,Credit Card,No,1,0,231,,,,,,,
+C00232,20,151,2681,One year,Credit Card,No,1,0,232,,,,,,,
+C00233,12,52,7459,Two year,Electronic Check,No,0,0,233,,,,,,,
+C00234,61,24,217,One year,Electronic Check,No,1,0,234,,,,,,,
+C00235,65,94,7183,One year,Bank Transfer,No,1,0,235,,,,,,,
+C00236,13,115,6305,Two year,Credit Card,No,1,0,236,,,,,,,
+C00237,61,51,810,One year,Bank Transfer,No,0,0,237,,,,,,,
+C00238,33,151,6705,Month-to-month,Bank Transfer,No,1,0,238,,,,,,,
+C00239,21,138,6404,Two year,Credit Card,Yes,1,0,239,,,,,,,
+C00240,56,108,6378,Two year,Bank Transfer,Yes,1,0,240,,,,,,,
+C00241,69,121,7669,One year,Electronic Check,Yes,0,0,241,,,,,,,
+C00242,16,196,7704,Two year,Electronic Check,No,0,0,242,,,,,,,
+C00243,28,33,1099,Two year,Credit Card,No,1,0,243,,,,,,,
+C00244,53,123,4561,One year,Bank Transfer,Yes,1,0,244,,,,,,,
+C00245,23,104,2991,Two year,Electronic Check,No,0,0,245,,,,,,,
+C00246,15,60,3032,Month-to-month,Bank Transfer,No,1,0,246,,,,,,,
+C00247,43,130,6856,One year,Bank Transfer,No,0,0,247,,,,,,,
+C00248,60,48,4747,One year,Bank Transfer,No,1,0,248,,,,,,,
+C00249,48,79,3083,One year,Bank Transfer,Yes,1,0,249,,,,,,,
+C00250,58,90,3841,Two year,Electronic Check,No,1,0,250,,,,,,,
+C00251,24,48,1639,Month-to-month,Electronic Check,Yes,0,0,251,,,,,,,
+C00252,9,138,515,Two year,Credit Card,No,0,1,252,,,,,,,
+C00253,55,71,1965,Two year,Credit Card,Yes,1,0,253,,,,,,,
+C00254,26,182,3882,Month-to-month,Electronic Check,Yes,0,0,254,,,,,,,
+C00255,31,88,4230,Two year,Electronic Check,No,1,0,255,,,,,,,
+C00256,29,178,7961,Two year,Electronic Check,Yes,0,0,256,,,,,,,
+C00257,65,30,6769,Month-to-month,Credit Card,No,0,0,257,,,,,,,
+C00258,50,120,1839,Two year,Credit Card,Yes,0,0,258,,,,,,,
+C00259,54,191,6674,Two year,Credit Card,No,1,0,259,,,,,,,
+C00260,31,85,1935,One year,Electronic Check,Yes,0,0,260,,,,,,,
+C00261,49,41,7108,Two year,Bank Transfer,Yes,1,0,261,,,,,,,
+C00262,44,176,4069,Two year,Bank Transfer,No,0,0,262,,,,,,,
+C00263,1,39,2429,Month-to-month,Credit Card,Yes,1,1,263,,,,,,,
+C00264,71,156,812,One year,Credit Card,No,0,0,264,,,,,,,
+C00265,34,172,1619,Two year,Electronic Check,Yes,1,0,265,,,,,,,
+C00266,6,115,1677,Two year,Bank Transfer,Yes,1,0,266,,,,,,,
+C00267,29,92,1792,Month-to-month,Credit Card,Yes,0,0,267,,,,,,,
+C00268,69,177,2153,Two year,Bank Transfer,No,0,0,268,,,,,,,
+C00269,19,63,1186,Two year,Electronic Check,No,1,0,269,,,,,,,
+C00270,43,81,7187,Two year,Credit Card,No,1,0,270,,,,,,,
+C00271,8,160,7182,Month-to-month,Bank Transfer,No,1,1,271,,,,,,,
+C00272,43,85,6192,One year,Credit Card,Yes,1,0,272,,,,,,,
+C00273,29,64,6131,One year,Electronic Check,Yes,0,0,273,,,,,,,
+C00274,67,142,1008,Month-to-month,Electronic Check,No,1,0,274,,,,,,,
+C00275,66,196,2989,Month-to-month,Electronic Check,No,0,0,275,,,,,,,
+C00276,49,94,4521,One year,Bank Transfer,Yes,1,0,276,,,,,,,
+C00277,58,174,1493,Two year,Credit Card,No,0,0,277,,,,,,,
+C00278,3,72,4282,One year,Credit Card,Yes,0,0,278,,,,,,,
+C00279,66,128,7087,One year,Electronic Check,No,1,0,279,,,,,,,
+C00280,57,43,6209,Two year,Bank Transfer,No,1,0,280,,,,,,,
+C00281,17,25,7759,Two year,Credit Card,No,1,0,281,,,,,,,
+C00282,18,158,7475,Two year,Electronic Check,Yes,0,0,282,,,,,,,
+C00283,2,56,7493,Month-to-month,Electronic Check,No,1,1,283,,,,,,,
+C00284,13,94,261,Month-to-month,Bank Transfer,Yes,0,0,284,,,,,,,
+C00285,26,171,6538,Two year,Credit Card,Yes,0,0,285,,,,,,,
+C00286,48,80,6186,Month-to-month,Electronic Check,Yes,1,0,286,,,,,,,
+C00287,11,60,627,One year,Electronic Check,No,0,0,287,,,,,,,
+C00288,42,83,1173,One year,Bank Transfer,Yes,0,0,288,,,,,,,
+C00289,22,58,6472,One year,Electronic Check,No,1,0,289,,,,,,,
+C00290,57,123,5518,One year,Credit Card,Yes,1,0,290,,,,,,,
+C00291,63,177,5573,One year,Credit Card,Yes,0,0,291,,,,,,,
+C00292,65,59,6420,Two year,Credit Card,No,0,0,292,,,,,,,
+C00293,13,140,727,One year,Bank Transfer,Yes,0,0,293,,,,,,,
+C00294,70,128,5423,Month-to-month,Bank Transfer,Yes,0,0,294,,,,,,,
+C00295,6,59,6657,Two year,Credit Card,No,0,0,295,,,,,,,
+C00296,66,44,1995,One year,Electronic Check,Yes,0,0,296,,,,,,,
+C00297,15,163,4659,Month-to-month,Credit Card,No,0,0,297,,,,,,,
+C00298,66,136,7139,Month-to-month,Bank Transfer,No,0,0,298,,,,,,,
+C00299,47,193,5219,Two year,Credit Card,No,1,0,299,,,,,,,
+C00300,26,93,3151,One year,Electronic Check,Yes,0,0,300,,,,,,,
+C00301,14,176,5655,One year,Credit Card,Yes,1,0,301,,,,,,,
+C00302,65,84,1193,Month-to-month,Electronic Check,No,1,0,302,,,,,,,
+C00303,58,128,7204,Month-to-month,Bank Transfer,Yes,0,0,303,,,,,,,
+C00304,21,179,840,One year,Bank Transfer,Yes,1,0,304,,,,,,,
+C00305,61,61,7474,Month-to-month,Credit Card,No,1,0,305,,,,,,,
+C00306,11,88,7410,One year,Credit Card,No,0,0,306,,,,,,,
+C00307,20,107,2288,Two year,Bank Transfer,Yes,1,0,307,,,,,,,
+C00308,55,169,1513,Two year,Electronic Check,No,0,0,308,,,,,,,
+C00309,9,149,1431,Month-to-month,Electronic Check,No,0,1,309,,,,,,,
+C00310,41,98,7631,One year,Bank Transfer,Yes,0,0,310,,,,,,,
+C00311,58,72,6062,Month-to-month,Bank Transfer,No,0,0,311,,,,,,,
+C00312,61,177,5838,Month-to-month,Credit Card,Yes,1,0,312,,,,,,,
+C00313,32,100,7901,One year,Credit Card,Yes,0,0,313,,,,,,,
+C00314,46,192,169,Month-to-month,Bank Transfer,Yes,0,0,314,,,,,,,
+C00315,28,185,4320,One year,Credit Card,No,0,0,315,,,,,,,
+C00316,39,166,805,One year,Credit Card,No,1,0,316,,,,,,,
+C00317,61,99,6541,Month-to-month,Electronic Check,No,0,0,317,,,,,,,
+C00318,38,63,5531,Month-to-month,Electronic Check,No,1,0,318,,,,,,,
+C00319,34,90,7911,Month-to-month,Electronic Check,No,0,0,319,,,,,,,
+C00320,43,63,4351,Two year,Bank Transfer,Yes,0,0,320,,,,,,,
+C00321,25,156,3381,One year,Bank Transfer,No,1,0,321,,,,,,,
+C00322,52,60,2095,Two year,Bank Transfer,Yes,1,0,322,,,,,,,
+C00323,18,147,2845,Month-to-month,Bank Transfer,Yes,0,0,323,,,,,,,
+C00324,9,55,4064,Month-to-month,Bank Transfer,Yes,0,1,324,,,,,,,
+C00325,57,80,177,One year,Credit Card,No,0,0,325,,,,,,,
+C00326,45,125,5533,One year,Credit Card,No,0,0,326,,,,,,,
+C00327,51,98,6795,Two year,Credit Card,Yes,1,0,327,,,,,,,
+C00328,57,115,7867,Month-to-month,Electronic Check,Yes,0,0,328,,,,,,,
+C00329,29,90,2039,One year,Credit Card,No,0,0,329,,,,,,,
+C00330,50,151,3525,One year,Electronic Check,Yes,0,0,330,,,,,,,
+C00331,25,180,6676,Two year,Electronic Check,No,1,0,331,,,,,,,
+C00332,55,84,4026,Month-to-month,Credit Card,Yes,0,0,332,,,,,,,
+C00333,31,40,7644,One year,Credit Card,No,0,0,333,,,,,,,
+C00334,11,185,7387,One year,Bank Transfer,Yes,0,0,334,,,,,,,
+C00335,43,70,1690,Month-to-month,Bank Transfer,No,1,0,335,,,,,,,
+C00336,18,188,2878,Month-to-month,Electronic Check,No,0,0,336,,,,,,,
+C00337,9,24,3090,Two year,Electronic Check,No,1,0,337,,,,,,,
+C00338,6,161,458,Month-to-month,Electronic Check,Yes,0,1,338,,,,,,,
+C00339,28,95,6110,One year,Electronic Check,No,1,0,339,,,,,,,
+C00340,4,20,5182,Two year,Bank Transfer,Yes,1,0,340,,,,,,,
+C00341,68,46,7768,Month-to-month,Electronic Check,No,0,0,341,,,,,,,
+C00342,58,142,1452,One year,Credit Card,Yes,1,0,342,,,,,,,
+C00343,67,67,1052,Month-to-month,Electronic Check,Yes,1,0,343,,,,,,,
+C00344,32,80,2998,Two year,Electronic Check,Yes,1,0,344,,,,,,,
+C00345,65,29,3138,One year,Bank Transfer,No,1,0,345,,,,,,,
+C00346,10,89,6631,Month-to-month,Electronic Check,No,0,1,346,,,,,,,
+C00347,65,178,4809,One year,Electronic Check,No,0,0,347,,,,,,,
+C00348,3,129,7607,Month-to-month,Bank Transfer,No,1,1,348,,,,,,,
+C00349,32,138,714,One year,Electronic Check,No,0,0,349,,,,,,,
+C00350,54,181,6354,Month-to-month,Electronic Check,Yes,0,0,350,,,,,,,
+C00351,57,187,774,One year,Bank Transfer,Yes,0,0,351,,,,,,,
+C00352,34,38,7888,Month-to-month,Credit Card,Yes,1,0,352,,,,,,,
+C00353,6,137,4804,One year,Electronic Check,Yes,0,1,353,,,,,,,
+C00354,7,54,1631,One year,Credit Card,Yes,1,0,354,,,,,,,
+C00355,39,170,4762,Month-to-month,Electronic Check,No,0,0,355,,,,,,,
+C00356,44,68,1931,Two year,Bank Transfer,No,1,0,356,,,,,,,
+C00357,47,46,7361,One year,Credit Card,Yes,1,0,357,,,,,,,
+C00358,66,184,1534,Month-to-month,Electronic Check,Yes,0,0,358,,,,,,,
+C00359,46,119,656,Month-to-month,Bank Transfer,No,1,0,359,,,,,,,
+C00360,49,168,4471,Two year,Bank Transfer,Yes,1,0,360,,,,,,,
+C00361,45,118,4416,Two year,Bank Transfer,No,0,0,361,,,,,,,
+C00362,5,134,3651,One year,Credit Card,Yes,1,1,362,,,,,,,
+C00363,30,138,1585,One year,Bank Transfer,Yes,0,0,363,,,,,,,
+C00364,48,53,7371,Two year,Credit Card,No,0,0,364,,,,,,,
+C00365,17,24,1389,One year,Bank Transfer,No,0,0,365,,,,,,,
+C00366,17,124,1196,Month-to-month,Credit Card,No,1,0,366,,,,,,,
+C00367,33,101,2979,Two year,Credit Card,Yes,0,0,367,,,,,,,
+C00368,10,81,5158,One year,Electronic Check,Yes,1,0,368,,,,,,,
+C00369,37,58,5083,Month-to-month,Credit Card,No,1,0,369,,,,,,,
+C00370,32,148,2526,Two year,Electronic Check,No,1,0,370,,,,,,,
+C00371,20,49,5058,One year,Electronic Check,No,1,0,371,,,,,,,
+C00372,14,27,2388,Two year,Bank Transfer,Yes,0,0,372,,,,,,,
+C00373,57,126,1514,Month-to-month,Bank Transfer,Yes,0,0,373,,,,,,,
+C00374,40,130,5612,One year,Electronic Check,Yes,1,0,374,,,,,,,
+C00375,29,20,4628,One year,Bank Transfer,Yes,1,0,375,,,,,,,
+C00376,33,196,2107,One year,Bank Transfer,Yes,0,0,376,,,,,,,
+C00377,36,192,3483,One year,Electronic Check,No,0,0,377,,,,,,,
+C00378,31,181,4712,Two year,Bank Transfer,No,1,0,378,,,,,,,
+C00379,41,76,4187,Two year,Bank Transfer,No,1,0,379,,,,,,,
+C00380,21,180,3061,One year,Bank Transfer,No,0,0,380,,,,,,,
+C00381,68,67,2144,Two year,Credit Card,Yes,1,0,381,,,,,,,
+C00382,67,64,5558,One year,Credit Card,Yes,0,0,382,,,,,,,
+C00383,24,185,1550,Two year,Electronic Check,No,1,0,383,,,,,,,
+C00384,47,187,4343,One year,Bank Transfer,Yes,1,0,384,,,,,,,
+C00385,1,188,7165,Month-to-month,Bank Transfer,No,0,1,385,,,,,,,
+C00386,25,90,1649,Month-to-month,Credit Card,No,1,0,386,,,,,,,
+C00387,70,168,2375,One year,Bank Transfer,Yes,0,0,387,,,,,,,
+C00388,42,156,2302,Two year,Electronic Check,No,0,0,388,,,,,,,
+C00389,42,126,5532,Month-to-month,Credit Card,No,0,0,389,,,,,,,
+C00390,4,105,2534,Month-to-month,Electronic Check,Yes,0,1,390,,,,,,,
+C00391,3,79,1299,One year,Credit Card,No,1,0,391,,,,,,,
+C00392,56,147,253,Month-to-month,Credit Card,Yes,0,0,392,,,,,,,
+C00393,6,63,2156,Month-to-month,Credit Card,Yes,1,1,393,,,,,,,
+C00394,22,65,1947,Month-to-month,Bank Transfer,Yes,1,0,394,,,,,,,
+C00395,61,116,6302,One year,Electronic Check,Yes,0,0,395,,,,,,,
+C00396,57,134,2241,Month-to-month,Electronic Check,Yes,1,0,396,,,,,,,
+C00397,5,39,3370,Month-to-month,Credit Card,Yes,0,1,397,,,,,,,
+C00398,59,95,7232,Two year,Credit Card,Yes,1,0,398,,,,,,,
+C00399,62,159,446,One year,Bank Transfer,No,0,0,399,,,,,,,
+C00400,53,27,4429,Two year,Electronic Check,No,0,0,400,,,,,,,
+C00401,6,198,6427,Month-to-month,Credit Card,No,1,1,401,,,,,,,
+C00402,45,199,7564,Month-to-month,Credit Card,Yes,0,0,402,,,,,,,
+C00403,69,115,4730,One year,Credit Card,Yes,1,0,403,,,,,,,
+C00404,20,37,4631,Month-to-month,Electronic Check,No,0,0,404,,,,,,,
+C00405,25,184,7662,Month-to-month,Credit Card,No,1,0,405,,,,,,,
+C00406,45,104,2541,Month-to-month,Electronic Check,No,1,0,406,,,,,,,
+C00407,3,75,3048,One year,Electronic Check,No,0,0,407,,,,,,,
+C00408,5,44,7840,One year,Credit Card,No,0,0,408,,,,,,,
+C00409,48,46,6056,Month-to-month,Bank Transfer,No,0,0,409,,,,,,,
+C00410,48,149,7690,Month-to-month,Bank Transfer,Yes,1,0,410,,,,,,,
+C00411,23,134,4413,One year,Electronic Check,No,1,0,411,,,,,,,
+C00412,48,95,1168,One year,Bank Transfer,Yes,0,0,412,,,,,,,
+C00413,64,131,3127,Two year,Electronic Check,No,0,0,413,,,,,,,
+C00414,2,158,3460,Two year,Electronic Check,No,0,0,414,,,,,,,
+C00415,48,87,6197,One year,Credit Card,Yes,1,0,415,,,,,,,
+C00416,48,151,530,Two year,Credit Card,Yes,0,0,416,,,,,,,
+C00417,51,83,7409,Two year,Bank Transfer,Yes,0,0,417,,,,,,,
+C00418,59,183,4605,One year,Electronic Check,Yes,0,0,418,,,,,,,
+C00419,35,113,6754,Month-to-month,Bank Transfer,No,1,0,419,,,,,,,
+C00420,18,53,6260,Month-to-month,Bank Transfer,Yes,0,0,420,,,,,,,
+C00421,39,146,3886,One year,Bank Transfer,Yes,1,0,421,,,,,,,
+C00422,14,158,1718,One year,Bank Transfer,No,1,0,422,,,,,,,
+C00423,5,172,2066,One year,Bank Transfer,No,1,0,423,,,,,,,
+C00424,5,93,3720,Month-to-month,Credit Card,Yes,0,1,424,,,,,,,
+C00425,52,47,7270,Two year,Electronic Check,Yes,0,0,425,,,,,,,
+C00426,54,61,1714,Month-to-month,Bank Transfer,No,1,0,426,,,,,,,
+C00427,34,191,4220,One year,Bank Transfer,Yes,0,0,427,,,,,,,
+C00428,3,178,1423,Month-to-month,Credit Card,Yes,1,1,428,,,,,,,
+C00429,36,169,7102,One year,Electronic Check,No,1,0,429,,,,,,,
+C00430,10,21,4968,One year,Electronic Check,No,1,0,430,,,,,,,
+C00431,70,156,2011,Two year,Credit Card,Yes,0,0,431,,,,,,,
+C00432,62,116,2103,One year,Electronic Check,No,1,0,432,,,,,,,
+C00433,14,162,325,Two year,Credit Card,Yes,0,0,433,,,,,,,
+C00434,67,21,5850,Two year,Electronic Check,Yes,0,0,434,,,,,,,
+C00435,8,152,499,Month-to-month,Electronic Check,No,0,1,435,,,,,,,
+C00436,29,151,1329,Month-to-month,Bank Transfer,Yes,1,0,436,,,,,,,
+C00437,30,100,3098,Month-to-month,Electronic Check,No,0,0,437,,,,,,,
+C00438,68,93,3075,Month-to-month,Credit Card,Yes,0,0,438,,,,,,,
+C00439,46,76,5865,One year,Electronic Check,No,1,0,439,,,,,,,
+C00440,60,47,6373,Month-to-month,Credit Card,No,1,0,440,,,,,,,
+C00441,61,26,3471,One year,Credit Card,No,0,0,441,,,,,,,
+C00442,52,70,5784,Two year,Electronic Check,No,0,0,442,,,,,,,
+C00443,29,85,5965,Two year,Credit Card,No,0,0,443,,,,,,,
+C00444,59,126,6287,One year,Credit Card,No,1,0,444,,,,,,,
+C00445,58,150,5290,One year,Credit Card,No,1,0,445,,,,,,,
+C00446,8,168,7608,Two year,Credit Card,No,0,0,446,,,,,,,
+C00447,13,190,6568,Month-to-month,Electronic Check,Yes,1,0,447,,,,,,,
+C00448,50,190,6770,Month-to-month,Credit Card,No,1,0,448,,,,,,,
+C00449,59,165,7758,One year,Electronic Check,Yes,1,0,449,,,,,,,
+C00450,15,113,6537,Two year,Electronic Check,No,1,0,450,,,,,,,
+C00451,64,57,5241,One year,Electronic Check,No,0,0,451,,,,,,,
+C00452,19,192,2908,One year,Credit Card,No,1,0,452,,,,,,,
+C00453,36,67,4566,Month-to-month,Electronic Check,No,1,0,453,,,,,,,
+C00454,68,24,3316,One year,Bank Transfer,No,0,0,454,,,,,,,
+C00455,10,34,5589,Month-to-month,Credit Card,No,0,1,455,,,,,,,
+C00456,1,30,6242,Two year,Bank Transfer,No,0,0,456,,,,,,,
+C00457,31,160,5208,One year,Electronic Check,Yes,1,0,457,,,,,,,
+C00458,1,186,622,Two year,Electronic Check,Yes,1,1,458,,,,,,,
+C00459,53,102,7501,Month-to-month,Credit Card,No,1,0,459,,,,,,,
+C00460,28,187,3207,One year,Electronic Check,Yes,0,0,460,,,,,,,
+C00461,49,80,3534,Month-to-month,Credit Card,No,1,0,461,,,,,,,
+C00462,40,158,4093,One year,Electronic Check,Yes,0,0,462,,,,,,,
+C00463,56,143,6530,One year,Bank Transfer,Yes,1,0,463,,,,,,,
+C00464,10,168,5667,One year,Electronic Check,Yes,1,1,464,,,,,,,
+C00465,63,125,6204,Month-to-month,Bank Transfer,No,0,0,465,,,,,,,
+C00466,38,59,3970,One year,Credit Card,No,0,0,466,,,,,,,
+C00467,46,37,5635,Two year,Electronic Check,No,0,0,467,,,,,,,
+C00468,23,23,4012,One year,Electronic Check,Yes,1,0,468,,,,,,,
+C00469,53,146,6760,One year,Bank Transfer,Yes,1,0,469,,,,,,,
+C00470,6,115,4534,Month-to-month,Bank Transfer,Yes,1,1,470,,,,,,,
+C00471,2,194,5397,Month-to-month,Electronic Check,Yes,0,1,471,,,,,,,
+C00472,52,55,2628,Month-to-month,Credit Card,No,1,0,472,,,,,,,
+C00473,45,187,1946,One year,Electronic Check,Yes,0,0,473,,,,,,,
+C00474,13,106,5999,Two year,Credit Card,No,1,0,474,,,,,,,
+C00475,19,82,7583,Month-to-month,Credit Card,Yes,0,0,475,,,,,,,
+C00476,44,24,6003,Two year,Credit Card,Yes,1,0,476,,,,,,,
+C00477,14,131,903,Two year,Electronic Check,Yes,1,0,477,,,,,,,
+C00478,29,117,3187,Two year,Electronic Check,Yes,1,0,478,,,,,,,
+C00479,32,59,4807,Month-to-month,Credit Card,No,1,0,479,,,,,,,
+C00480,11,160,4666,Two year,Credit Card,No,0,1,480,,,,,,,
+C00481,69,58,3105,One year,Electronic Check,Yes,0,0,481,,,,,,,
+C00482,32,199,5789,Month-to-month,Electronic Check,Yes,0,0,482,,,,,,,
+C00483,13,189,6302,Two year,Bank Transfer,No,0,0,483,,,,,,,
+C00484,27,147,7103,Two year,Credit Card,Yes,1,0,484,,,,,,,
+C00485,50,74,7599,Month-to-month,Credit Card,No,1,0,485,,,,,,,
+C00486,66,67,6774,Month-to-month,Bank Transfer,No,1,0,486,,,,,,,
+C00487,57,165,5425,Month-to-month,Credit Card,No,0,0,487,,,,,,,
+C00488,9,72,2417,Month-to-month,Electronic Check,Yes,1,1,488,,,,,,,
+C00489,66,156,677,Month-to-month,Credit Card,Yes,0,0,489,,,,,,,
+C00490,56,52,4061,One year,Electronic Check,Yes,1,0,490,,,,,,,
+C00491,44,30,4695,One year,Credit Card,Yes,1,0,491,,,,,,,
+C00492,54,123,7652,Month-to-month,Electronic Check,No,1,0,492,,,,,,,
+C00493,2,114,5468,One year,Credit Card,Yes,1,0,493,,,,,,,
+C00494,68,128,2102,Month-to-month,Electronic Check,Yes,1,0,494,,,,,,,
+C00495,22,164,2339,One year,Credit Card,No,0,0,495,,,,,,,
+C00496,50,128,6970,Month-to-month,Credit Card,Yes,1,0,496,,,,,,,
+C00497,2,49,5917,Two year,Bank Transfer,No,1,0,497,,,,,,,
+C00498,46,198,2158,Month-to-month,Bank Transfer,No,0,0,498,,,,,,,
+C00499,1,185,5755,Two year,Credit Card,Yes,1,1,499,,,,,,,
+C00500,27,181,4292,Month-to-month,Bank Transfer,No,1,0,500,,,,,,,
