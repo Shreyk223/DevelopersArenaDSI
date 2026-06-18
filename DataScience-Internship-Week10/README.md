@@ -86,6 +86,6 @@ pipeline is fit:
    confirms there are zero NaNs in the transformed matrix and that its row count
    matches the input.
 
-All three pass in the executed notebook (see the "Testing Evidence" section, Day 7).
-Standard classification metrics (accuracy, precision, recall, F1, ROC-AUC) and a
-confusion matrix are also reported on a stratified 80/20 train/test split.
+All three pass in the executed notebook. Standard classification metrics (accuracy, 
+precision, recall, F1, ROC-AUC) and a confusion matrix are also reported on a stratified 
+80/20 train/test split.
