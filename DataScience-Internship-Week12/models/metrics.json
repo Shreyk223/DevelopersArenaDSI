@@ -1,0 +1,5 @@
+{
+  "model": "Random Forest",
+  "test_roc_auc": 0.999,
+  "avg_precision": 0.9924
+}
