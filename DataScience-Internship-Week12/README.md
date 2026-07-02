@@ -183,9 +183,3 @@ Random Forest selected — highest mean AUC, lowest variance.
 3. **Electronic check correlates with churn** — possible payment friction signal
 4. **High monthly charges + short tenure = maximum risk** — prioritise these for intervention
 
----
-
-## Author & Context
-
-Built as the Week 12 Capstone for a 12-week Data Science programme.
-Demonstrates end-to-end ML: EDA → preprocessing → model selection → evaluation → deployment.
