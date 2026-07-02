@@ -1,10 +1,6 @@
 # Business Report: Customer Churn Prediction
 ## Reducing Revenue Loss Through Predictive Analytics
 
-**Prepared by:** Data Science Capstone Team
-**Date:** July 2026
-**Classification:** Internal — Retention Strategy
-
 ---
 
 ## Executive Summary
@@ -185,7 +181,3 @@ Based on an average monthly charge of $113.60 and conservative retention lift es
    churn (payment failure) — each requires a different response
 
 ---
-
-*This report accompanies the technical notebook (`capstone_project.ipynb`) and the
-prediction API (`deployment/predict_api.py`). For methodology details, refer to the
-technical documentation in `README.md`.*
